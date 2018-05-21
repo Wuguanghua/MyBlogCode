@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
+title: Guanghua 's blog
+subtitle: guanghua
+description: to be better!
 keywords:
-author: John Doe
-language:
+author: Wuguanghua
+language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://wuguanghua.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -78,4 +78,53 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:Wuguanghua/Wuguanghua.github.io.git
+  branch: master
+
+# =============================================================================
+# NexT Theme configuration
+# =============================================================================
+
+avatar: https://avatars1.githubusercontent.com/u/32269?v=3&s=460
+
+# Duoshuo
+duoshuo_shortname: notes-iissnan
+
+# Disqus
+disqus_shortname: 
+
+
+# Social links
+social:
+  GitHub: https://github.com/Wuguanghua
+  掘金: https://juejin.im/user/594d1bea8d6d810057ef6562
+  知乎: http://www.zhihu.com/people/super5577
+  微博: http://weibo.com/
+  segmentfault: https://segmentfault.com/u/super77
+
+# Creative Commons 4.0 International License.
+# http://creativecommons.org/
+# Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
+creative_commons: by-nc-sa
+
+# Google Webmaster tools verification setting
+# See: https://www.google.com/webmasters/
+google_site_verification: VvyjvVXcJQa0QklHipu6pwm2PJGnnchIqX7s5JbbT_0
+
+
+# Google Analytics
+# Google分析ID
+google_analytics:
+
+
+# 百度分析ID
+baidu_analytics: 50c15455e37f70aea674ff4a663eef27
+
+# Specify the date when the site was setup
+since: 2018
+
+#swiftype_key: your-swiftype-key
+# =============================================================================
+# End NexT Theme configuration
+# =============================================================================
