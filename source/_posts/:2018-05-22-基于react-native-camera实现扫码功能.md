@@ -1,6 +1,7 @@
 ---
 title: 基于react-native-camera实现扫码功能
-date: 2018-05-22 17:59:02
+date: 2018-03-22 17:59:02
+categories: "React Native"
 tags: "react-native"
 ---
 
