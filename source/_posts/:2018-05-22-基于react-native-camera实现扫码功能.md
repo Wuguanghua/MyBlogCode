@@ -4,6 +4,8 @@ date: 2018-05-22 17:59:02
 tags: "react-native"
 ---
 
+![Banner](https://user-gold-cdn.xitu.io/2018/3/6/161fbdd2fb0b3826?imageView2/1/w/1304/h/734/q/85/format/webp/interlace/1)
+
 > 组件库文档：https://github.com/react-native-community/react-native-camera
 
 ### 安装
