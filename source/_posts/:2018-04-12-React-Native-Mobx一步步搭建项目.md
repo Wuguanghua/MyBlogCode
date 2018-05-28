@@ -5,8 +5,8 @@ tags: "React Native"
 categories: "React Native"
 ---
 
+![banner](https://raw.githubusercontent.com/Wuguanghua/blogImg/master/0528-02.png)
 
-### 前言 ###
    本文将简单介绍React Native 结合 Mobx 构建项目的过程，我也是初探Mobx，文中如有错误还请评论指出，内容很简单，大概10分钟左右看完。
  至于为什么选择Mobx而不用Redux？其实Redux之前也在项目中用过，用了一段时间感觉虽然他在大型项目中做了很多工作，但使用起来代码量很多，
  尤其是redux-saga中间件的使用步骤确实很繁琐，所以想尝试一种新的数据管理方式，当我碰到Mobx时，我觉得很有意思，便开始了小的尝试，做了一个小demo，于是就有了这篇文章。
